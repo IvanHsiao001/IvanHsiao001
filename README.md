@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Ivan Hsiao ｜ 你好，我是蕭勝中
 
-<!--
-**IvanHsiao001/IvanHsiao001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mjib007.mjib007)
 
-Here are some ideas to get you started:
+Shock & Vibration / AI Server / Data Center
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I’m a shock & Vibration engineer working at the intersection of:
+
+AI server and rack structure design analysis
+Shock & vibration validation and solution provide
+
+
+📫 Contact
+GitHub: https://github.com/ivanhsiao001
+Email: ddvorak.tw@gmail.com
+
+
+
